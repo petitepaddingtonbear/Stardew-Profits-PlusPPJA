@@ -1034,4 +1034,28 @@ var crops = {
     },
     "isWildseed": true
   }
+  
+  },
+  "camellia": {
+    "name": "Camellia",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "camellia.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.02,
+      "price": 50,
+      "jarType": "",
+      "kegType": ""
+    }
 };
