@@ -28,6 +28,3 @@ Farming level | The level of the player's *Farming* skill. This has direct impac
 Level 5 skills | The *Tilling* skill is available once the player reaches level 5 in *Farming*. This option is disabled unless the correct level is set.
 Level 10 skills | Specific skills available once the player reaches level 10 in *Farming*. This option is disabled unless the correct level is set and unless *Tilling* is enabled under Level 5 skills.
 Show extra info | Selecting this will show additional detailed info about every crop on the tooltip.
-
-# Contact
-You may contact me on the following locations: [Twitter](https://twitter.com/thorinair_music) | [Reddit](https://www.reddit.com/user/Thorinair/) | [YouTube](https://www.youtube.com/user/Thorinair) | [deviantArt](http://thorinair.deviantart.com/)
