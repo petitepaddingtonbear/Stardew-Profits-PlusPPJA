@@ -120,7 +120,7 @@ var seasons = [
 			crops.sunflower,
 			crops.ancientfruit,
 			crops.taroroot,
-			crops.summerseeds,
+			crops.summerseeds
 			crops.allium
 		]
 	},
