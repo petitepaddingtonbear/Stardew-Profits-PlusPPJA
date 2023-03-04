@@ -94,7 +94,7 @@ var seasons = [
 			crops.bluejazz,
 			crops.tulip,
 			crops.ancientfruit,
-			crops.springseeds
+			crops.springseeds,
 			crops.camellia
 		]
 	},
@@ -143,7 +143,8 @@ var seasons = [
 			crops.wheat,
 			crops.corn,
 			crops.ancientfruit,
-			crops.fallseeds
+			crops.fallseeds,
+			crops.camellia
 		]
 	},
 	{
