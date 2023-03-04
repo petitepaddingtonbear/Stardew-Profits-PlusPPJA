@@ -1054,8 +1054,6 @@ var crops = {
       "extraPerc": 0.02,
       "price": 50,
       "jarType": "",
-      "kegType": ""
-    }
-   
-   }
+      "kegType": "" 
+  }
 };
