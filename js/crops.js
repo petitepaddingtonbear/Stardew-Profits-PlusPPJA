@@ -936,6 +936,28 @@ var crops = {
       "kegType": "Wine"
     }
   },
+  "camellia": {
+    "name": "Camellia",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "camellia.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.02,
+      "price": 50,
+      "jarType": "",
+      "kegType": ""
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
@@ -1033,28 +1055,5 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
-  },
-  "camellia": {
-    "name": "Camellia",
-    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
-    "img": "camellia.png",
-    "seeds": {
-      "pierre": 60,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
-    },
-    "growth": {
-      "initial": 13,
-      "regrow": 3
-    },
-    "produce": {
-      "extra": 1,
-      "extraPerc": 0.02,
-      "price": 50,
-      "jarType": "",
-      "kegType": ""
-    },
   }
 };
