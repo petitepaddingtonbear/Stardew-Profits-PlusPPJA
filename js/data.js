@@ -95,6 +95,7 @@ var seasons = [
 			crops.tulip,
 			crops.ancientfruit,
 			crops.springseeds
+			crops.camellia
 		]
 	},
 	{
@@ -197,6 +198,7 @@ var seasons = [
 			crops.ancientfruit,
 			crops.cactusfruit,
 			crops.taroroot
+			crops.camellia
 		]
 	}
 ];
