@@ -956,6 +956,7 @@ var crops = {
       "extraPerc": 0.02,
       "price": 50
   },
+ },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
