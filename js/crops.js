@@ -1054,5 +1054,5 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
-  }
+  },
 };
