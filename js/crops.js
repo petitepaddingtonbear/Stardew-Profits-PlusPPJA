@@ -954,9 +954,7 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.02,
-      "price": 50,
-      "jarType": "",
-      "kegType": ""
+      "price": 50
   },
   "springseeds": {
     "name": "Spring Seeds",
