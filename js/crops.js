@@ -1033,8 +1033,6 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
-  }
-  
   },
   "camellia": {
     "name": "Camellia",
@@ -1058,4 +1056,6 @@ var crops = {
       "jarType": "",
       "kegType": ""
     }
+   
+   }
 };
