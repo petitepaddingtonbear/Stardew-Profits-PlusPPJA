@@ -183,8 +183,7 @@ var seasons = [
 			crops.sugarcane,
 			crops.sulfurshelfmushroom,
 			crops.wasabiroot,
-			crops.zucchini
-			
+			crops.zucchini	
 		]
 	},
 	{
