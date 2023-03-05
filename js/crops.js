@@ -1084,7 +1084,7 @@ var crops = {
   },
  },
  "englishrose": {
-    "name": "Englishrose",
+    "name": "English Rose",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "englishrose.png",
     "seeds": {
@@ -1147,7 +1147,7 @@ var crops = {
   },
  },
  "herbalpeony": {
-    "name": "Herbalpeony",
+    "name": "Herbal Peony",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "herbalpeony.png",
     "seeds": {
