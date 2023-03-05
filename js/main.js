@@ -1,7 +1,7 @@
 // Prepare variables.
 var cropList;
 
-var svgWidth = 2160;
+var svgWidth = 1080;
 var svgHeight = 480;
 
 var width = svgWidth - 48;
