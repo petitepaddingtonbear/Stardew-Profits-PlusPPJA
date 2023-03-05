@@ -1017,7 +1017,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 160
+      "price": 60
   },
  },
  "clemantis": {
