@@ -1020,10 +1020,10 @@ var crops = {
       "price": 60
   },
  },
- "clemantis": {
-    "name": "Clemantis",
+ "clematis": {
+    "name": "Clematis",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
-    "img": "clemantis.png",
+    "img": "clematis.png",
     "seeds": {
       "pierre": 50,
       "joja": 0,
