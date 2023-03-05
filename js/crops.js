@@ -978,6 +978,405 @@ var crops = {
       "price": 50
   },
  },
+  "carnation": {
+    "name": "Carnation",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "carnation.png",
+    "seeds": {
+      "pierre": 45,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 140
+  },
+ },
+ "chrysanthemum": {
+    "name": "Chrysanthemum",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "chrysanthemum.png",
+    "seeds": {
+      "pierre": 15,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 160
+  },
+ },
+ "clemantis": {
+    "name": "Clemantis",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "clemantis.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.2,
+      "price": 60
+  },
+ },
+ "dahlia": {
+    "name": "Dahlia",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "dahlia.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 75
+  },
+ },
+ "delphinium": {
+    "name": "Delphinium",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "delphinium.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 160
+  },
+ },
+ "englishrose": {
+    "name": "Englishrose",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "englishrose.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 290
+  },
+ },
+ "freesia": {
+    "name": "Freesia",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "freesia.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 150
+  },
+ },
+ "geranium": {
+    "name": "Geranium",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "geranium.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 140
+  },
+ },
+ "herbalpeony": {
+    "name": "Herbalpeony",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "herbalpeony.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 240
+  },
+ },
+ "hyacinth": {
+    "name": "Hyacinth",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "hyacinth.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 60
+  },
+ },
+ "hydrangea": {
+    "name": "Hydrangea",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "hydrangea.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 170
+  },
+ },
+ "iris": {
+    "name": "Iris",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "iris.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 200
+  },
+ },
+ "lavender": {
+    "name": "Lavender",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "lavender.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 220
+  },
+ },
+ "lilac": {
+    "name": "Lilac",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "lilac.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 11,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 180
+  },
+ },
+ "lily": {
+    "name": "Lily",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "lily.png",
+    "seeds": {
+      "pierre": 35,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 150
+  },
+ },
+ "lotus": {
+    "name": "Lotus",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "lotus.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 11,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 70
+  },
+ },
+ "petunia": {
+    "name": "Petunia",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "petunia.png",
+    "seeds": {
+      "pierre": 25,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 80
+  },
+ },
+ "violet": {
+    "name": "Violet",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "violet.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 90
+  },
+ },
+ "wisteria": {
+    "name": "Wisteria",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "wisteria.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 20,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 280
+  },
+ },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
