@@ -408,11 +408,6 @@ function sortCrops() {
 	for (var i = 0; i < cropList.length; i++) {
 		// console.log(cropList[i].drawProfit.toFixed(2) + "  " + cropList[i].name);
 	}
-}
-function removeExtras() {
-	if cropList.length > 20,
-	let cropList.length = 20
-	}
 
 /*
  * Updates the X D3 scale.
