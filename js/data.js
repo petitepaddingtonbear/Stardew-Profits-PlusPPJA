@@ -95,7 +95,14 @@ var seasons = [
 			crops.tulip,
 			crops.ancientfruit,
 			crops.springseeds,
-			crops.camellia
+			crops.camellia,
+			crops.carnation,
+			crops.delphinium,
+			crops.herbalpeony,
+			crops.hyacinth,
+			crops.lilac,
+			crops.violet,
+			crops.wisteria
 		]
 	},
 	{
@@ -121,7 +128,13 @@ var seasons = [
 			crops.ancientfruit,
 			crops.taroroot,
 			crops.summerseeds,
-			crops.allium
+			crops.allium,
+			crops.carnation,
+			crops.hydrangea,
+			crops.lavender,
+			crops.lily,
+			crops.lotus,
+			crops.petunia
 		]
 	},
 	{
@@ -145,7 +158,14 @@ var seasons = [
 			crops.corn,
 			crops.ancientfruit,
 			crops.fallseeds,
-			crops.camellia
+			crops.camellia,
+			crops.chrysanthemum,
+			crops.clemantis,
+			crops.dahlia,
+			crops.englishrose,
+			crops.freesia,
+			crops.geranium,
+			crops.iris
 		]
 	},
 	{
@@ -200,7 +220,26 @@ var seasons = [
 			crops.ancientfruit,
 			crops.cactusfruit,
 			crops.taroroot,
-			crops.camellia
+			crops.camellia,
+			crops.carnation,
+			crops.delphinium,
+			crops.herbalpeony,
+			crops.hyacinth,
+			crops.lilac,
+			crops.violet,
+			crops.wisteria,
+			crops.hydrangea,
+			crops.lavender,
+			crops.lily,
+			crops.lotus,
+			crops.petunia,
+			crops.chrysanthemum,
+			crops.clemantis,
+			crops.dahlia,
+			crops.englishrose,
+			crops.freesia,
+			crops.geranium,
+			crops.iris
 		]
 	}
 ];
