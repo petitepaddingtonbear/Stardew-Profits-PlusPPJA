@@ -156,7 +156,8 @@ var seasons = [
 			crops.ginger,
 			crops.ginseng,
 			crops.gooseberry,
-			crops.greenpeas
+			crops.greenpeas,
+			crops.kiwi
 		]
 	},
 	{
@@ -199,7 +200,11 @@ var seasons = [
 			crops.cotton,
 			crops.durum,
 			crops.fennel,
-			crops.ginseng
+			crops.ginseng,
+			crops.habanero,
+			crops.jalapeno,
+			crops.kidneybean,
+			crops.kiwi
 		]
 	},
 	{
@@ -302,7 +307,12 @@ var seasons = [
 			crops.ginger,
 			crops.ginseng,
 			crops.gooseberry,
-			crops.greenpeas
+			crops.greenpeas,
+			crops.habanero,
+			crops.jalapeno,
+			crops.juniper,
+			crops.kidneybean,
+			crops.kiwi
 		]
 	}
 ];
