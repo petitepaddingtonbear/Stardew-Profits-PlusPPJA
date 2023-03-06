@@ -108,7 +108,11 @@ var seasons = [
 			crops.buckwheat,
 			crops.cabbage,
 			crops.cactusflower,
-			crops.ginseng
+			crops.ginseng,
+			crops.licoriceroot,
+			crops.maguey,
+			crops.muskmelon,
+			crops.onion
 		]
 	},
 	{
@@ -157,7 +161,12 @@ var seasons = [
 			crops.ginseng,
 			crops.gooseberry,
 			crops.greenpeas,
-			crops.kiwi
+			crops.kiwi,
+			crops.lettuce,
+			crops.maguey,
+			crops.navybean,
+			crops.okra,
+			crops.oregano
 		]
 	},
 	{
@@ -204,7 +213,9 @@ var seasons = [
 			crops.habanero,
 			crops.jalapeno,
 			crops.kidneybean,
-			crops.kiwi
+			crops.kiwi,
+			crops.oat,
+			crops.okra
 		]
 	},
 	{
@@ -214,7 +225,8 @@ var seasons = [
 			crops.winterseeds,
 			crops.elderberry,
 			crops.ginseng,
-			crops.juniper
+			crops.juniper,
+			crops.mint
 		]
 	},
 	{
@@ -313,7 +325,17 @@ var seasons = [
 			crops.jalapeno,
 			crops.juniper,
 			crops.kidneybean,
-			crops.kiwi
+			crops.kiwi,
+			crops.lettuce,
+			crops.licoriceroot,
+			crops.maguey,
+			crops.mint,
+			crops.muskmelon,
+			crops.navybean,
+			crops.oat,
+			crops.okra,
+			crops.onion,
+			crops.oregano
 		]
 	}
 ];
