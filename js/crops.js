@@ -1813,7 +1813,7 @@ var crops = {
     }
   },
   "cotton": {
-    "name": "cotton",
+    "name": "Cotton",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "cotton.png",
     "seeds": {
