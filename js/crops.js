@@ -1515,29 +1515,6 @@ var crops = {
       "kegType": "Juice"
     }
   },
-    "bellpepper": {
-    "name": "Bell Pepper",
-    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
-    "img": "bellpepper.png",
-    "seeds": {
-      "pierre": 130,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
-    },
-    "growth": {
-      "initial": 10,
-      "regrow": 4
-    },
-    "produce": {
-      "extra": 1,
-      "extraPerc": 0.2,
-      "price": 70,
-      "jarType": "Pickles",
-      "kegType": "Juice"
-    }
-  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
