@@ -1469,29 +1469,6 @@ var crops = {
       "kegType": "Juice"
     }
   },
-    "barley	": {
-    "name": "Barley",
-    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
-    "img": "barley.png",
-    "seeds": {
-      "pierre": 10,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
-    },
-    "growth": {
-      "initial": 4,
-      "regrow": 0
-    },
-    "produce": {
-      "extra": 0,
-      "extraPerc": 0,
-      "price": 25,
-      "jarType": "Pickles",
-      "kegType": "Juice"
-    }
-  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
