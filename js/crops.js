@@ -1584,6 +1584,98 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "broccoli": {
+    "name": "Broccoli",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "broccoli.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "buckwheat": {
+    "name": "Buckwheat",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "buckwheat.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "butternutsquash": {
+    "name": "Butternut Squash",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "butternutsquash.png",
+    "seeds": {
+      "pierre": 180,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 440,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cabbage": {
+    "name": "Cabbage",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cabbage.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
