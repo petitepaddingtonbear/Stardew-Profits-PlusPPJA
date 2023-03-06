@@ -1400,6 +1400,29 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "aloe": {
+    "name": "Aloe",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "aloe.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 100,
+      "specialLoc": "Clinic",
+      "specialUrl": "https://stardewvalleywiki.com/Harvey%27s_Clinic"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 140,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
