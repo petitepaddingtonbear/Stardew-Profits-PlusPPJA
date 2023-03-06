@@ -107,7 +107,8 @@ var seasons = [
 			crops.basil,
 			crops.buckwheat,
 			crops.cabbage,
-			crops.cactusflower
+			crops.cactusflower,
+			crops.ginseng
 		]
 	},
 	{
@@ -151,7 +152,11 @@ var seasons = [
 			crops.chickpea,
 			crops.chives,
 			crops.cotton,
-			crops.cucumber
+			crops.cucumber,
+			crops.ginger,
+			crops.ginseng,
+			crops.gooseberry,
+			crops.greenpeas
 		]
 	},
 	{
@@ -191,14 +196,19 @@ var seasons = [
 			crops.cactusflower,
 			crops.carrot,
 			crops.celery,
-			crops.cotton
+			crops.cotton,
+			crops.durum,
+			crops.fennel,
+			crops.ginseng
 		]
 	},
 	{
 		"name": "Winter",
 		"duration": 28,
 		"crops": [
-			crops.winterseeds
+			crops.winterseeds,
+			crops.elderberry,
+			crops.ginseng
 		]
 	},
 	{
@@ -285,7 +295,14 @@ var seasons = [
 			crops.chickpea,
 			crops.chives,
 			crops.cotton,
-			crops.cucumber
+			crops.cucumber,
+			crops.durum,
+			crops.elderberry,
+			crops.fennel,
+			crops.ginger,
+			crops.ginseng,
+			crops.gooseberry,
+			crops.greenpeas
 		]
 	}
 ];
