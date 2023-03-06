@@ -20,7 +20,7 @@ body {
 .graph {
 	margin: auto;
 	margin-top: 16px;
-	width: auto;
+	width: 100%;
 	maxwidth: 1080px;
 	overflow: auto;
 	text-align: center;
