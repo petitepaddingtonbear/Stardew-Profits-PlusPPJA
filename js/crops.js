@@ -1084,7 +1084,7 @@ var crops = {
   },
  },
  "englishrose": {
-    "name": "Englishrose",
+    "name": "English Rose",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "englishrose.png",
     "seeds": {
@@ -1147,7 +1147,7 @@ var crops = {
   },
  },
  "herbalpeony": {
-    "name": "Herbalpeony",
+    "name": "Herbal Peony",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "herbalpeony.png",
     "seeds": {
@@ -2016,6 +2016,121 @@ var crops = {
       "price": 30,
       "jarType": "Pickles",
       "kegType": "Juice"
+    }
+  },
+  "habanero": {
+    "name": "Habanero",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "habanero.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "jalapeno": {
+    "name": "Jalapeno",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "jalapeno.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 40,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "juniper": {
+    "name": "Juniper Berries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "juniper.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 15,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "kidneybean": {
+    "name": "Kidney Bean",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "kidneybean.png",
+    "seeds": {
+      "pierre": 180,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "kiwi": {
+    "name": "Kiwi",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "kiwi.png",
+    "seeds": {
+      "pierre": 300,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 21,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 100,
+      "jarType": "Jelly",
+      "kegType": "Wine"
     }
   },
   "springseeds": {
