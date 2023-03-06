@@ -112,7 +112,16 @@ var seasons = [
 			crops.licoriceroot,
 			crops.maguey,
 			crops.muskmelon,
-			crops.onion
+			crops.onion,
+			crops.parsley,
+			crops.passionfruit,
+			crops.rapeseed,
+			crops.redonion,
+			crops.shallot,
+			crops.shiitakemushroom,
+			crops.spinach,
+			crops.sugarbeet,
+			crops.sweetcanarymelon
 		]
 	},
 	{
@@ -166,7 +175,15 @@ var seasons = [
 			crops.maguey,
 			crops.navybean,
 			crops.okra,
-			crops.oregano
+			crops.oregano,
+			crops.perilla,
+			crops.quinoa,
+			crops.rapeseed,
+			crops.raspberry,
+			crops.sugarcane,
+			crops.sulfurshelfmushroom,
+			crops.wasabiroot,
+			crops.zucchini
 		]
 	},
 	{
@@ -215,7 +232,18 @@ var seasons = [
 			crops.kidneybean,
 			crops.kiwi,
 			crops.oat,
-			crops.okra
+			crops.okra,
+			crops.peanut,
+			crops.rosemary,
+			crops.sage,
+			crops.shiitakemushroom,
+			crops.soybean,
+			crops.spinach,
+			crops.sulfurshelfmushroom,
+			crops.sweetpotato,
+			crops.tabascopepper,
+			crops.thyme,
+			crops.watermelon
 		]
 	},
 	{
@@ -335,7 +363,31 @@ var seasons = [
 			crops.oat,
 			crops.okra,
 			crops.onion,
-			crops.oregano
+			crops.oregano,
+			crops.parsley,
+			crops.passionfruit,
+			crops.peanut,
+			crops.perilla,
+			crops.quinoa,
+			crops.rapeseed,
+			crops.raspberry,
+			crops.redonion,
+			crops.rosemary,
+			crops.sage,
+			crops.shallot,
+			crops.shiitakemushroom,
+			crops.soybean,
+			crops.spinach,
+			crops.sugarbeet,
+			crops.sugarcane,
+			crops.sulfurshelfmushroom,
+			crops.sweetcanarymelon,
+			crops.sweetpotato,
+			crops.tabascopepper,
+			crops.thyme,
+			crops.wasabiroot,
+			crops.watermelon,
+			crops.zucchini
 		]
 	}
 ];
