@@ -409,6 +409,7 @@ function sortCrops() {
 		// console.log(cropList[i].drawProfit.toFixed(2) + "  " + cropList[i].name);
 	}
 }
+
 /*
  * Updates the X D3 scale.
  * @return The new scale.
