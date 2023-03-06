@@ -170,8 +170,7 @@ var seasons = [
 			crops.englishrose,
 			crops.freesia,
 			crops.geranium,
-			crops.iris,
-			crops.barley
+			crops.iris
 		]
 	},
 	{
@@ -248,8 +247,7 @@ var seasons = [
 			crops.iris,
 			crops.adzukibean,
 			crops.asparagus,
-			crops.bamboo,
-			crops.barley
+			crops.bamboo
 		]
 	}
 ];
