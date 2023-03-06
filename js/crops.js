@@ -1377,6 +1377,29 @@ var crops = {
       "price": 280
   },
  },
+  "adzukibean": {
+    "name": "Adzuki Bean",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "adzukibean.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 90,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
