@@ -134,7 +134,8 @@ var seasons = [
 			crops.lavender,
 			crops.lily,
 			crops.lotus,
-			crops.petunia
+			crops.petunia,
+			crops.adzukibean
 		]
 	},
 	{
@@ -239,7 +240,8 @@ var seasons = [
 			crops.englishrose,
 			crops.freesia,
 			crops.geranium,
-			crops.iris
+			crops.iris,
+			crops.adzukibean
 		]
 	}
 ];
