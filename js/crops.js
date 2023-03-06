@@ -1446,6 +1446,29 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "bamboo": {
+    "name": "Bamboo",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "bamboo.png",
+    "seeds": {
+      "pierre": 150,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 2,
+      "extraPerc": 1,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
