@@ -106,8 +106,7 @@ var seasons = [
 			crops.bamboo,
 			crops.basil,
 			crops.buckwheat,
-			crops.cabbage,
-			crops.cactusflower
+			crops.cabbage
 		]
 	},
 	{
