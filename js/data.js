@@ -103,7 +103,8 @@ var seasons = [
 			crops.lilac,
 			crops.violet,
 			crops.wisteria,
-			crops.bamboo
+			crops.bamboo,
+			crops.basil
 		]
 	},
 	{
@@ -170,7 +171,9 @@ var seasons = [
 			crops.englishrose,
 			crops.freesia,
 			crops.geranium,
-			crops.iris
+			crops.iris,
+			crops.barley,
+			crops.bellpepper
 		]
 	},
 	{
