@@ -1469,6 +1469,75 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "barley	": {
+    "name": "Barley",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "barley.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "basil": {
+    "name": "Basil",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "basil.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "bellpepper": {
+    "name": "Bell Pepper",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "bellpepper.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
