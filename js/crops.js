@@ -1676,6 +1676,73 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "cactusflower": {
+    "name": "Cactus Flower",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cactusflower.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 1300,
+      "specialLoc": "Oasis",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 24,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 600,
+    }
+  },
+    "carrot": {
+    "name": "Carrot",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "carrot.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 65,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cassava": {
+    "name": "Cassava",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cassava.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 80,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
