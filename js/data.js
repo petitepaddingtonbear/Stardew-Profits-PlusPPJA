@@ -107,7 +107,7 @@ var seasons = [
 			crops.basil,
 			crops.buckwheat,
 			crops.cabbage,
-			crops.cactusflower,
+			crops.cactusflower
 		]
 	},
 	{
@@ -145,7 +145,7 @@ var seasons = [
 			crops.asparagus,
 			crops.bamboo,
 			crops.blueagave,
-			crops.butternutsquash,
+			crops.butternutsquash
 		]
 	},
 	{
@@ -181,14 +181,14 @@ var seasons = [
 			crops.bellpepper,
 			crops.blackberry,
 			crops.broccoli,
-			crops.cabbage,
+			crops.cabbage
 		]
 	},
 	{
 		"name": "Winter",
 		"duration": 28,
 		"crops": [
-			crops.winterseeds,
+			crops.winterseeds
 		]
 	},
 	{
@@ -268,7 +268,7 @@ var seasons = [
 			crops.broccoli,
 			crops.buckwheat,
 			crops.butternutsquash,
-			crops.cabbage,
+			crops.cabbage
 		]
 	}
 ];
