@@ -1515,6 +1515,75 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "bellpepper": {
+    "name": "Bell Pepper",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "bellpepper.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "blackberry": {
+    "name": "Blackberry",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "blackberry.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "blueagave": {
+    "name": "Blue Agave",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "blueagave.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 200,
+      "specialLoc": "Oasis",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 300,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
