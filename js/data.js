@@ -104,7 +104,9 @@ var seasons = [
 			crops.violet,
 			crops.wisteria,
 			crops.bamboo,
-			crops.basil
+			crops.basil,
+			crops.buckwheat,
+			crops.cabbage
 		]
 	},
 	{
@@ -141,7 +143,8 @@ var seasons = [
 			crops.aloe,
 			crops.asparagus,
 			crops.bamboo,
-			crops.blueagave
+			crops.blueagave,
+			crops.butternutsquash
 		]
 	},
 	{
@@ -175,7 +178,9 @@ var seasons = [
 			crops.iris,
 			crops.barley,
 			crops.bellpepper,
-			crops.blackberry
+			crops.blackberry,
+			crops.broccoli,
+			crops.cabbage
 		]
 	},
 	{
@@ -256,7 +261,11 @@ var seasons = [
 			crops.barley,
 			crops.basil,
 			crops.bellpepper,
-			crops.blackberry
+			crops.blackberry,
+			crops.broccoli,
+			crops.buckwheat,
+			crops.butternutsquash,
+			crops.cabbage
 		]
 	}
 ];
