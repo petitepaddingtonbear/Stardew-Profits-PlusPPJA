@@ -1469,7 +1469,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "barley	": {
+  "barley": {
     "name": "Barley",
     "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
     "img": "barley.png",
