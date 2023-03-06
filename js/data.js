@@ -135,7 +135,8 @@ var seasons = [
 			crops.lily,
 			crops.lotus,
 			crops.petunia,
-			crops.adzukibean
+			crops.adzukibean,
+			crops.aloe
 		]
 	},
 	{
