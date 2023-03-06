@@ -147,7 +147,11 @@ var seasons = [
 			crops.blueagave,
 			crops.butternutsquash,
 			crops.cactusflower,
-			crops.cassava
+			crops.cassava,
+			crops.chickpea,
+			crops.chives,
+			crops.cotton,
+			crops.cucumber
 		]
 	},
 	{
@@ -185,7 +189,9 @@ var seasons = [
 			crops.broccoli,
 			crops.cabbage,
 			crops.cactusflower,
-			crops.carrot
+			crops.carrot,
+			crops.celery,
+			crops.cotton
 		]
 	},
 	{
@@ -274,7 +280,12 @@ var seasons = [
 			crops.butternutsquash,
 			crops.cabbage,
 			crops.cactusflower,
-			crops.carrot
+			crops.carrot,
+			crops.celery,
+			crops.chickpea,
+			crops.chives,
+			crops.cotton,
+			crops.cucumber
 		]
 	}
 ];
