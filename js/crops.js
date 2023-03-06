@@ -1400,6 +1400,1519 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "aloe": {
+    "name": "Aloe",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "aloe.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 100,
+      "specialLoc": "Clinic",
+      "specialUrl": "https://stardewvalleywiki.com/Harvey%27s_Clinic"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 140,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "asparagus": {
+    "name": "Asparagus",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "asparagus.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "bamboo": {
+    "name": "Bamboo",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "bamboo.png",
+    "seeds": {
+      "pierre": 150,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 2,
+      "extraPerc": 0,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "barley	": {
+    "name": "Barley",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "barley.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "basil": {
+    "name": "Basil",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "basil.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "bellpepper": {
+    "name": "Bell Pepper",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "bellpepper.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+    "blackberry": {
+    "name": "Blackberry",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "blackberry.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "blueagave": {
+    "name": "Blue Agave",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "blueagave.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 200,
+      "specialLoc": "Oasis",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 300,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "broccoli": {
+    "name": "Broccoli",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "broccoli.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "buckwheat": {
+    "name": "Buckwheat",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "buckwheat.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "butternutsquash": {
+    "name": "Butternut Squash",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "butternutsquash.png",
+    "seeds": {
+      "pierre": 180,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 440,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cabbage": {
+    "name": "Cabbage",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cabbage.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+   "cactusflower": {
+    "name": "Cactus Flower",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cactusflower.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 1300,
+      "specialLoc": "Oasis",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 24,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 600,
+    }
+  },
+    "carrot": {
+    "name": "Carrot",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "carrot.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 65,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cassava": {
+    "name": "Cassava",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cassava.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 80,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "celery": {
+    "name": "Celery",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "celery.png",
+    "seeds": {
+      "pierre": 55,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "chickpea": {
+    "name": "Chickpea",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "chickpea.png",
+    "seeds": {
+      "pierre": 200,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "chives": {
+    "name": "Chives",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "chives.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cotton": {
+    "name": "cotton",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cotton.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 65,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "cucumber": {
+    "name": "Cucumber",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cucumber.png",
+    "seeds": {
+      "pierre": 65,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 11,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 90,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "durum": {
+    "name": "Durum",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "durum.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "elderberry": {
+    "name": "Elderberries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "elderberry.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "fennel": {
+    "name": "Fennel",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "fennel.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "ginger": {
+    "name": "Ginger",
+    "url": "https://stardewvalleywiki.com/Ginger",
+    "img": "ginger.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 35,
+      "specialLoc": "Oasis (fixed Willy's boat) ",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 60,
+      "jarType": "Pickles",
+    }
+  },
+  "ginseng": {
+    "name": "Ginseng",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "ginseng.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 1000,
+      "specialLoc": "Dwarf",
+      "specialUrl": "https://stardewvalleywiki.com/Dwarf"
+    },
+    "growth": {
+      "initial": 30,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 2000,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "gooseberry": {
+    "name": "Gooseberries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "gooseberry.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "greenpeas": {
+    "name": "Green Peas",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "greenpeas.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 30,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "habanero": {
+    "name": "Habanero",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "habanero.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "jalapeno": {
+    "name": "Jalapeno",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "jalapeno.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 40,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "juniper": {
+    "name": "Juniper Berries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "juniper.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 15,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "kidneybean": {
+    "name": "Kidney Bean",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "kidneybean.png",
+    "seeds": {
+      "pierre": 180,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "kiwi": {
+    "name": "Kiwi",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "kiwi.png",
+    "seeds": {
+      "pierre": 300,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 21,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 100,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "lettuce": {
+    "name": "Lettuce",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "lettuce.png",
+    "seeds": {
+      "pierre": 55,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 65,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "locoriceroot": {
+    "name": "Licorice Root",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "licoriceroot.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 135,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "maguey": {
+    "name": "Maguey",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "maguey.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 170,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "mint": {
+    "name": "Mint",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "mint.png",
+    "seeds": {
+      "pierre": 30,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "muskmelon": {
+    "name": "Muskmelon",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "muskmelon.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 180,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "navybean": {
+    "name": "Navy Bean",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "navybean.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 15,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "oat": {
+    "name": "Oat",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "oat.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "okra": {
+    "name": "Okra",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "okra.png",
+    "seeds": {
+      "pierre": 160,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 60,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "onion": {
+    "name": "Onion",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "onion.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 115,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "oregano": {
+    "name": "Oregano",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "oregano.png",
+    "seeds": {
+      "pierre": 30,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 50,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "parsley": {
+    "name": "Parsley",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "parsley.png",
+    "seeds": {
+      "pierre": 25,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 45,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "passionfruit": {
+    "name": "Passion Fruit",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "passionfruit.png",
+    "seeds": {
+      "pierre":130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 95,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "peanut": {
+    "name": "Peanut",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "peanut.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.3,
+      "price": 75,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "perilla": {
+    "name": "Perilla",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "perilla.png",
+    "seeds": {
+      "pierre": 30,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 50,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "quinoa": {
+    "name": "Quinoa",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "quinoa.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 30,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "rapeseed": {
+    "name": "Rapeseed",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "rapeseed.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 50,
+    }
+  },
+  "raspberry": {
+    "name": "Raspberries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "raspberry.png",
+    "seeds": {
+      "pierre": 60,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 2,
+      "extraPerc": 1,
+      "price": 30,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "redonion": {
+    "name": "Red Onion",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "redonion.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 115,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "rosemary": {
+    "name": "Rosemary",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "rosemary.png",
+    "seeds": {
+      "pierre": 30,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 75,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sage": {
+    "name": "Sage",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sage.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "shallot": {
+    "name": "Shallot",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "shallot.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 115,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "shiitakemushroom": {
+    "name": "Shiitake Mushroom",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "shiitakemushroom.png",
+    "seeds": {
+      "pierre": 500,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 180,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "soybean": {
+    "name": "Soybean",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "soybean.png",
+    "seeds": {
+      "pierre": 120,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 80,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "spinach": {
+    "name": "Spinach",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "spinach.png",
+    "seeds": {
+      "pierre": 15,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 3,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sugarbeet": {
+    "name": "Sugar Beet",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sugarbeet.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 180,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sugarcane": {
+    "name": "Sugar Cane",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sugarcane.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 110,
+      "specialLoc": "Oasis",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 230,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sulfurshelfmushroom": {
+    "name": "Sulfur Shelf Mushroom",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sulfurshelfmushroom.png",
+    "seeds": {
+      "pierre": 500,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 180,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "sweetcanarymelon": {
+    "name": "Sweet Canary Melon",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sweetcanarymelon.png",
+    "seeds": {
+      "pierre": 450,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 11,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 225,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "sweetpotato": {
+    "name": "Sweet Potato",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "sweetpotato.png",
+    "seeds": {
+      "pierre": 90,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 120,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "tabascopepper": {
+    "name": "Tabasco Pepper",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "tabascopepper.png",
+    "seeds": {
+      "pierre": 130,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 80,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "thyme": {
+    "name": "Thyme",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "thyme.png",
+    "seeds": {
+      "pierre": 30,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "wasabiroot": {
+    "name": "Wasabi",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "wasabiroot.png",
+    "seeds": {
+      "pierre": 100,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 165,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "watermelon": {
+    "name": "Watermelon",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "watermelon.png",
+    "seeds": {
+      "pierre": 250,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 14,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 175,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "zucchini": {
+    "name": "Zucchini",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "zucchini.png",
+    "seeds": {
+      "pierre": 225,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 14,
+      "regrow": 2
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 175,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
