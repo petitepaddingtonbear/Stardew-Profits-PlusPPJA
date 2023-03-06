@@ -102,7 +102,8 @@ var seasons = [
 			crops.hyacinth,
 			crops.lilac,
 			crops.violet,
-			crops.wisteria
+			crops.wisteria,
+			crops.bamboo
 		]
 	},
 	{
@@ -136,7 +137,9 @@ var seasons = [
 			crops.lotus,
 			crops.petunia,
 			crops.adzukibean,
-			crops.aloe
+			crops.aloe,
+			crops.asparagus,
+			crops.bamboo
 		]
 	},
 	{
@@ -167,7 +170,8 @@ var seasons = [
 			crops.englishrose,
 			crops.freesia,
 			crops.geranium,
-			crops.iris
+			crops.iris,
+			crops.barley
 		]
 	},
 	{
@@ -242,7 +246,10 @@ var seasons = [
 			crops.freesia,
 			crops.geranium,
 			crops.iris,
-			crops.adzukibean
+			crops.adzukibean,
+			crops.asparagus,
+			crops.bamboo,
+			crops.barley
 		]
 	}
 ];
