@@ -1743,6 +1743,121 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "celery": {
+    "name": "Celery",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "celery.png",
+    "seeds": {
+      "pierre": 55,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "chickpea": {
+    "name": "Chickpea",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "chickpea.png",
+    "seeds": {
+      "pierre": 200,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "chives": {
+    "name": "Chives",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "chives.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "cotton": {
+    "name": "cotton",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cotton.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 65,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "cucumber": {
+    "name": "Cucumber",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "cucumber.png",
+    "seeds": {
+      "pierre": 65,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 11,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 90,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
