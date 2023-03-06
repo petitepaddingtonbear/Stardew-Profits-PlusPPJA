@@ -1858,6 +1858,166 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "durum": {
+    "name": "Durum",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "durum.png",
+    "seeds": {
+      "pierre": 10,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "elderberry": {
+    "name": "Elderberries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "elderberry.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "fennel": {
+    "name": "Fennel",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "fennel.png",
+    "seeds": {
+      "pierre": 20,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "ginger": {
+    "name": "Ginger",
+    "url": "https://stardewvalleywiki.com/Ginger",
+    "img": "ginger.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 35,
+      "specialLoc": "Oasis (fixed Willy's boat) ",
+      "specialUrl": "https://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0,
+      "price": 60,
+      "jarType": "Pickles",
+    }
+  },
+  "ginseng": {
+    "name": "Ginseng",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "ginseng.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 1000,
+      "specialLoc": "Dwarf",
+      "specialUrl": "https://stardewvalleywiki.com/Dwarf"
+    },
+    "growth": {
+      "initial": 30,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 2000,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "gooseberry": {
+    "name": "Gooseberries",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "gooseberry.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 20,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "greenpeas": {
+    "name": "Green Peas",
+    "url": "https://mouseypounds.github.io/ppja-ref/crops.html",
+    "img": "greenpeas.png",
+    "seeds": {
+      "pierre": 50,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 1,
+      "price": 30,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "springseeds": {
     "name": "Spring Seeds",
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
