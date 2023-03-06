@@ -213,7 +213,8 @@ var seasons = [
 		"crops": [
 			crops.winterseeds,
 			crops.elderberry,
-			crops.ginseng
+			crops.ginseng,
+			crops.juniper
 		]
 	},
 	{
